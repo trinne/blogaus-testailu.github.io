@@ -7,7 +7,7 @@ pygments: true
 markdown: rdiscount
 
 authors:
-  massimo:
-    name: Massimo Prencipe
-    email: mprencipe@gmail.com
-    url: mailto:mprencipe@gmail.com
+  trinne:
+    name: Tuomas Rinne
+    email: torinne@gmail.com
+    url: mailto:torinne@gmail.com
